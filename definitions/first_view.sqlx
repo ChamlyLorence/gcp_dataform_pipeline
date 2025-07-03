@@ -15,4 +15,4 @@ config {
 
 SELECT 1 as test
 union
-select 2 as test
+select 3 as test
