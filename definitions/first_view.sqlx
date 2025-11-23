@@ -16,3 +16,5 @@ config {
 SELECT 1 as test
 union all
 select 5 as test
+union all
+select 10 as test
