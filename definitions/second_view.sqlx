@@ -9,4 +9,5 @@ SELECT test from ${ref("first_view")}
 -- test 3
 -- test 4
 -- test 5
+-- Syntax error: Expected keyword ALL or keyword DISTINCT but got keyword SELECT at [39:1]
 
