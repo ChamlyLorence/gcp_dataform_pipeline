@@ -1,5 +1,5 @@
 config { type: "view",
-        dataset: "my_new_dataset"
+        schema: "my_new_dataset"
  }
 
 -- Use the ref() function to manage dependencies.
