@@ -5,3 +5,4 @@ config { type: "view" }
 
 SELECT test from ${ref("first_view")}
 -- test
+-- test 2
